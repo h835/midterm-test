@@ -1,0 +1,172 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "Maker": "@jenlooper",
+    "img": "https://i.pinimg.com/originals/b3/bf/f4/b3bff481532b5dbd8cc0921850cd28f1.jpg",
+    "Url": null,
+    "Title": "Lip Shades",
+    "Description": "This product is to beautify your lips and to give them a bloom.",
+    "Ratings": [
+      5,
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": "jenlooper-light",
+    "Maker": "jenlooper",
+    "img": "https://images-static.nykaa.com/media/catalog/product/5/8/58acd0d8901030650291_h.jpg",
+    "Url": null,
+    "Title": "Face-oil",
+    "Description": "On applying this face-oil daily to your face will make your face to shine brighter and give your face glow.",
+    "Ratings": [
+      1
+    ]
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "Maker": "@jenlooper",
+    "img": "https://cf.shopee.com.my/file/f5a47aded059d05f8b274fc3cbc44937",
+
+    "Title": "Liquid Lipsticks",
+    "Description": "Liquid Lipsticks are the attraction for girls these days.This will give the matte finish to your lips.",
+    "Ratings": null
+  },
+  {
+    "Id": "jenlooper-survival",
+    "Maker": "jenlooper",
+    "img": "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/001_Hero_15dd0316-e892-4e33-a5c3-39d24c062d36.jpg?v=1556188021",
+
+    "Title": "Peach-milk moisturiser",
+    "Description": "Suitable for all types of skin and can lasts for long time in any weather.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-bubblesortpic",
+    "Maker": "sailorhg",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51Mb48UCvxL._SL1000_.jpg",
+
+    "Title": "Lakme Toner",
+    "Description": "This product is to tone your skin and to clean your pores. you have to apply toner with cotton pad once a day.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Maker": "sailorhg",
+    "img": "https://4sdeals.pw/wp-content/uploads/2016/11/1-501.jpg",
+
+    "Title": "NailPaints",
+    "Description": "Nailpaints are the lacquer to decorate and protect the nail plates.",
+    "Ratings": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "Id": "sailorhg-kit",
+    "Maker": "sailorhg",
+    "img": "https://test-storage-mumbai.s3.amazonaws.com/uploads/article/image/635/Lakme-eyeconic-kajal-review.jpg",
+
+    "Title": "Eyeconic-Kajal",
+    "Description": "It has intense matte texture for eyeconic eyes. Its long lasting upto 22 hours without smudging and is completely water proof.",
+    "Ratings": null
+  },
+  {
+    "Id": "sailorhg-led",
+    "Maker": "sailorhg",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41758tQOa6L._SY355_.jpg",
+
+    "Title": "Eyeliner",
+    "Description": "Define the outline of your eyes with some colour. Its light-weight and is a comfortable eyes makeup for perfect definition.",
+    "Ratings": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": "selinazawacki-soi-shirt",
+    "Maker": "selinazawacki",
+    "img": "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/23414_H1_8901030644863_1024x.jpg?v=1573638878",
+
+    "Title": "Brightening Serum",
+    "Description": "Its ingredients deminish the formation and transfer of skin darkening pigments and precious micro-crystals gently polish skin to reveal a fair look.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-soi-pins",
+    "Maker": "selinazawacki",
+    "img": "https://img1.cfcdn.club/86/a4/86bda469412335601f6ec9522949eba4_350x350.jpg",
+
+    "Title": "Liquid Foundation",
+    "Description": "Sport a dazzling glow, wherever you go, with the Lakme Perfecting Liquid Foundation.",
+    "Ratings": null
+  },
+  {
+    "Id": "vogueandcode-hipster-dev-bro",
+    "Maker": "vogueandcode",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7kNI5qnCTnJSQXfdyNxfvHaT8LfGCJkNqWQ&usqp=CAU",
+
+    "Title": "CC Cream",
+    "Description": "CC is a nourishing cream that moisturises, brightens and freshens your skin. It also protects your skin from the sun with SPF 30, PA++ and evens skin tone",
+    "Ratings": null
+  },
+  {
+    "Id": "vogueandcode-pretty-girls-code-tee",
+    "Maker": "vogueandcode",
+    "img": "https://rukminim1.flixcart.com/image/612/612/jqpiqvk0/compact/y/d/z/9-radiance-complexion-compact-lakme-original-imafcnze5mvpzt74.jpeg?q=70",
+
+    "Title": "Compact Powder",
+    "Description": "Use this dynamic compact by LAKME and get a glowing complexion in an instant. Also you will get smooth and soft skin.",
+    "Ratings": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Id": "vogueandcode-ruby-sis-2",
+    "Maker": "vogueandcode",
+    "img": "https://cdn2.stylecraze.com/wp-content/uploads/2013/07/Lakme-Absolute-Perfect-Radiance-Skin-Lightening-Day-Creme.jpg",
+
+    "Title": "Skin lightening Day Creme",
+    "Description": "This day creme replenishes and moisturizes your skin giving it an instant fairer glow.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-moon",
+    "Maker": "selinazawacki",
+    "img": "https://images-static.nykaa.com/media/catalog/product/2/3/23705_h_1.jpg?tr=w-500,pr-true",
+
+    "Title": "9 to 5 mousse foundation",
+    "Description": "Foundation with new formula that feels soft and incredibly weightless. It blends effortlessly onto skin to conceal imperfections.",
+    "Ratings": null
+  },
+  {
+    "Id": "selinazawacki-shirt",
+    "Maker": "selinazawacki",
+    "img": "https://www.aeenshop.com/image/cache/catalog/Products/1047-600x600.jpg",
+
+    "Title": "Shampoos",
+    "Description": "It is formulated with lavender flowers to soften, add shine and nourish the hair while protecting it against environmental stress.",
+    "Ratings": null
+  }
+]
